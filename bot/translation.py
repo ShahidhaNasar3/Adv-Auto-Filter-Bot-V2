@@ -5,18 +5,8 @@
 class Translation(object):
     
     START_TEXT = """<i>Hey {}!!</u>
-<i>Am Auto group Bot 
-This bot only working this grou @Cinemafactory1 
+This group only grou @Cinemafactory1 
 <u>"""
-    
-    HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
-
-<i>
--> @Cinemafactory1 
- This bot only working thisgrou           
-@Cinemafactory1
-"""
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Group Bot Bot</code>
     
