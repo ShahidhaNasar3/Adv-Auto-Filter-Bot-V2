@@ -4,8 +4,8 @@
 
 class Translation(object):
     
-    START_TEXT = """<i>Hey {}!!</u>
-This group only grou @Cinemafactory1 
+    START_TEXT = """<i>Hey {@Cinemafactory1} @Cinemafactory1 !!</u>
+@Cinemafactory1 
 <u>"""
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Group Bot Bot</code>
