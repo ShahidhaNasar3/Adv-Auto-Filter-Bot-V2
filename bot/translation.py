@@ -5,9 +5,9 @@
 class Translation(object):
     
     START_TEXT = """<i>Hey {}!!</u>
-<b>Am Auto group Bot 
+<i>Am Auto group Bot 
 This bot only working this grou @Cinemafactory1 
-</i>"""
+<u>"""
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
