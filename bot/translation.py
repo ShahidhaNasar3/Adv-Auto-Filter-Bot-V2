@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START= """<i>Hey {@Cinemafactory1} @Cinemafactory1 !!</u>
+    Start_Text = """<i>Hey {@Cinemafactory1} @Cinemafactory1 !!</u>
 @Cinemafactory1 
 <u>"""
     
